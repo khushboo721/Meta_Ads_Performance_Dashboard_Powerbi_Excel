@@ -40,7 +40,7 @@ This will enable the marketing team to:
 - **Visualisation**: Power BI — interactive dashboard with filters , DAX. 
 
 ## 5. Recommendations   
--Strong awareness & engagement (high CTR & ER), but low purchase funnel
+- Strong awareness & engagement (high CTR & ER), but low purchase funnel
 - efficiency : need better conversion strategy.
 - Target audience: Females, 18–30, especially in India & Brazil.
 - Best ad formats: Video > Stories > Carousel/Image.
